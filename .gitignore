@@ -1,0 +1,9 @@
+.vscode
+/document
+/main/node_modules
+/main/.vscode
+/renderer/node_modules
+/renderer/.vscode
+/renderer/dist
+.env
+*.db
